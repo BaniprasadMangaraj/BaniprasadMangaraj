@@ -1,113 +1,157 @@
-# 👋 Hi, I'm Baniprasad Mangaraj
+# 👋 Hi, I'm Baniprasad Mangaraj  
+**DevOps Automation Engineer | AWS | Kubernetes | CI/CD | Cloud & IoT**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Welcome%20to%20my%20DevOps%20World&fontSize=40&animation=fadeIn" />
+</p>
 
 ![Banner](https://github.com/BaniprasadMangaraj/BaniprasadMangaraj/blob/main/banner.gif)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2088FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Infrastructure;Automating+Everything+with+IaC;Scaling+Apps+with+Kubernetes;Securing+Cloud+with+DevSecOps" alt="Typing SVG" />
+</p>
+
+---
+
 ## 🚀 About Me
-I am a **Software Automation Test Engineer** with over **2 years of experience** in designing, developing, and maintaining robust automation frameworks. My expertise lies in ensuring software quality through effective test strategies and automation practices.
 
-🏢 **Currently Working at:** Ajatus Software Pvt Ltd  
-🎯 **Passionate about:** Automation, DevOps, and solving real-world problems with innovative tech solutions.
+I am a **DevOps Automation Engineer** with **2.5+ years of experience** building scalable, secure, and highly available cloud infrastructure.  
+I specialize in **CI/CD automation, Kubernetes, AWS, Infrastructure as Code, and DevSecOps** practices to deliver reliable production systems.
 
----
-
-## 🔧 Technical Skills
-
-### **Automation Tools**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=black&logoWidth=30)
-![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white&logoWidth=30)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white&logoWidth=30)
-![TestNG](https://img.shields.io/badge/TestNG-00AA88?style=for-the-badge&logo=testng&logoColor=white&logoWidth=30)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white&logoWidth=30)
-
-### **DevOps Tools**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=30)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=30)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&logoWidth=30)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&logoWidth=30)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&logoWidth=30)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&logoWidth=30)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&logoWidth=30)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white&logoWidth=30)
-
-### **Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=30)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&logoWidth=30)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&logoWidth=30)
-
-### **Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30)
-
-### **API Testing Tools**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=30)
-![REST Assured](https://img.shields.io/badge/REST_Assured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white&logoWidth=30)
-
-### **Version Control**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&logoWidth=30)
+🏢 **Current Company:** Ajatus Software Pvt Ltd  
+📍 **Location:** Odisha, India  
+🎯 **Focus:** Cloud Automation, CI/CD, Kubernetes, IoT, Monitoring
 
 ---
 
-## 🌱 Currently Learning
-- **DevOps Automation**: Kubernetes, Ansible, Terraform, Prometheus
-- **Cloud Computing**: AWS, Google Cloud, Azure
-- **Advanced Java Concepts**
+## 🧠 What I Do
+
+- Design & maintain **CI/CD pipelines** (Jenkins, GitLab CI, GitHub Actions)
+- Build & manage **AWS cloud infrastructure**
+- Deploy & scale apps using **Docker & Kubernetes**
+- Automate infra with **Terraform & Ansible**
+- Implement **monitoring, logging & alerting**
+- Build **real-time IoT and serverless architectures**
 
 ---
 
-## 📈 Key Achievements
-✅ Improved automation testing efficiency by **25%** and accuracy by **15%**  
-✅ Reduced test execution times by **30%**  
-✅ Managed deployments using Docker & Jenkins for CI/CD integration  
-✅ Actively participated in Agile ceremonies ensuring seamless integration of testing activities  
-✅ Recognized as "**Improver of the Month**" multiple times for consistent performance
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,gitlab,githubactions,terraform,ansible,prometheus,grafana,linux,git" />
+</p>
+
+### ☁ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
+
+### 🔧 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![GitLab](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+### 🏗 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge)
+
+### 💻 OS & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 🛠️ Projects
-### 🔹 **ICARDA**  
-*Environment:* React | Java | PostgreSQL | Angular (Ionic)  
-- Developed automated test scripts for frontend, backend, and mobile app components.
-- Conducted comprehensive functional, regression, and performance testing.
-- Ensured 100% test coverage for critical modules.
-
-### 🔹 **Recycle Pay**  
-*Environment:* React | Node.js | MongoDB | Angular (Ionic)  
-- Automated test cases using Selenium, Appium, JUnit, and TestNG.
-- Managed team tasks, resource allocation, and project timelines.
-
-### 🔹 **Giovani Fabrics (Bangkok)**  
-*Environment:* Bootstrap | PHP Yii2 | PostgreSQL | Angular (Ionic)  
-- Developed and implemented test strategies for ERP modules.
-- Created a Selenium WebDriver framework integrated with TestNG and Cucumber.
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaniprasadMangaraj&theme=tokyonight-duo" width="100%" />
+  <br>
+  <img src="https://platane.github.io/snk/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
-## 📚 Education
-🎓 **B.Tech in Mechanical Engineering** | Gandhi Engineering College (2015 - 2019)  
-🎓 **Higher Secondary School (+2)** | Gayatri +2 Science Residential College (2013 - 2015)
+## 🏆 Career Highlights
+
+- 🚀 Reduced **deployment time by 40%** using CI/CD automation  
+- 🐳 Improved **scalability & resource usage** using Kubernetes  
+- ☁ Automated AWS infra using **Terraform & Ansible**
+- 📊 Built **full-stack monitoring** with Prometheus, Grafana & CloudWatch  
+- 🔐 Implemented **DevSecOps** security checks inside pipelines  
 
 ---
 
-## 💼 Connect with Me
-[![Email](https://img.shields.io/badge/Email-baniprasadmangaraj2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baniprasadmangaraj2@gmail.com)
+## 🔥 Major Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baniprasad_Mangaraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baniprasad-mangaraj-b94aab20b/)
+### 🚀 **No-Counter IoT Platform**
+**AWS | IoT Core | Lambda | DynamoDB | WebSockets**
 
-[![GitHub](https://img.shields.io/badge/GitHub-BaniprasadMangaraj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaniprasadMangaraj)
+- Built a **serverless IoT platform** to process real-time RFID data
+- Implemented **secure device communication** using AWS IoT Core
+- Created **live dashboards** using WebSocket APIs
+- Designed **auto-scaling architecture** supporting thousands of devices
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mbaniprasad)
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baniprasadmangaraj/)
+### ♻ **Recycle Pay – Cloud Marketplace**
+**AWS | Kubernetes | GitHub Actions | Jenkins**
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/baniprasad.mangaraj.9/)
+- Provisioned **AWS infra (EC2, S3, RDS, EKS)**
+- Built **CI/CD pipelines** for automated deployments
+- Created **Helm charts** for multi-environment deployments
+- Implemented **monitoring & alerting**
+
+---
+
+### 🏭 **Giovani Fabrics – ERP**
+**Docker | Ansible | Linux**
+
+- Automated **deployments and rollbacks**
+- Standardized infra using **IaC**
+- Improved **uptime & incident response**
+
+---
+
+## 🎓 Education
+
+**B.Tech – Mechanical Engineering** Gandhi Engineering College (2015–2019)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/baniprasad-mangaraj-b94aab20b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/BaniprasadMangaraj" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:baniprasadmangaraj2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
 ## ⚡ Fun Facts
-🎮 **Gamer**: I love playing PC and mobile games!  
-🏋️ **Fitness Enthusiast**: I’m addicted to fitness and hitting the gym regularly.  
-🌱 **Gardener**: I enjoy gardening and growing my own plants.  
-🚀 **Tech Geek**: Always exploring new technologies and tools!  
+- 🏏 Cricket lover  
+- 💪 Fitness enthusiast  
+- 🌱 Loves gardening  
+- 🎮 Mobile & PC gamer  
+- 🌍 Enjoys travelling  
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2088FF&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <b>⭐ “Automating everything so humans can focus on innovation.” ⭐</b>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BaniprasadMangaraj.BaniprasadMangaraj" alt="Visitors" />
+</p>
